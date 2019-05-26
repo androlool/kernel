@@ -38,7 +38,7 @@
 		qcom,mdss-dsi-v-front-porch = <227>;
 		qcom,mdss-pan-physical-width-dimension = <64>;
 		qcom,mdss-pan-physical-height-dimension = <114>;
-		qcom,mdss-dsi-panel-framerate = <60>;
+		qcom,mdss-dsi-panel-framerate = <120>;
 		qcom,mdss-dsi-virtual-channel-id = <0>;
 		qcom,mdss-dsi-stream = <0>;
 		qcom,mdss-dsi-h-sync-skew = <0>;
@@ -165,7 +165,7 @@
 		somc,mdss-dsi-wait-time-before-post-on-cmd = <0>;
 
 		qcom,mdss-dsi-display-timings {
-			1080p60 {
+			1080p120 {
 				qcom,mdss-dsi-timing-default;
 				qcom,mdss-dsi-panel-width = <1080>;
 				qcom,mdss-dsi-panel-height = <1920>;
@@ -177,7 +177,7 @@
 				qcom,mdss-dsi-v-front-porch = <227>;
 				qcom,mdss-pan-physical-width-dimension = <64>;
 				qcom,mdss-pan-physical-height-dimension = <114>;
-				qcom,mdss-dsi-panel-framerate = <60>;
+				qcom,mdss-dsi-panel-framerate = <120>;
 				qcom,mdss-dsi-h-sync-skew = <0>;
 				qcom,mdss-dsi-h-left-border = <0>;
 				qcom,mdss-dsi-h-right-border = <0>;
@@ -233,7 +233,7 @@
 		qcom,mdss-dsi-v-front-porch = <227>;
 		qcom,mdss-pan-physical-width-dimension = <64>;
 		qcom,mdss-pan-physical-height-dimension = <114>;
-		qcom,mdss-dsi-panel-framerate = <60>;
+		qcom,mdss-dsi-panel-framerate = <120>;
 		qcom,mdss-dsi-virtual-channel-id = <0>;
 		qcom,mdss-dsi-stream = <0>;
 		qcom,mdss-dsi-h-sync-skew = <0>;
@@ -338,7 +338,7 @@
 		somc,change-fps-rtn-pos = <2 1>;
 
 		qcom,mdss-dsi-display-timings {
-			1080p60 {
+			1080p120 {
 				qcom,mdss-dsi-timing-default;
 				qcom,mdss-dsi-panel-width = <1080>;
 				qcom,mdss-dsi-panel-height = <1920>;
@@ -350,7 +350,7 @@
 				qcom,mdss-dsi-v-front-porch = <227>;
 				qcom,mdss-pan-physical-width-dimension = <64>;
 				qcom,mdss-pan-physical-height-dimension = <114>;
-				qcom,mdss-dsi-panel-framerate = <60>;
+				qcom,mdss-dsi-panel-framerate = <120>;
 				qcom,mdss-dsi-h-sync-skew = <0>;
 				qcom,mdss-dsi-h-left-border = <0>;
 				qcom,mdss-dsi-h-right-border = <0>;
@@ -390,7 +390,7 @@
 		qcom,mdss-dsi-v-front-porch = <227>;
 		qcom,mdss-pan-physical-width-dimension = <64>;
 		qcom,mdss-pan-physical-height-dimension = <114>;
-		qcom,mdss-dsi-panel-framerate = <60>;
+		qcom,mdss-dsi-panel-framerate = <120>;
 		qcom,mdss-dsi-virtual-channel-id = <0>;
 		qcom,mdss-dsi-stream = <0>;
 		qcom,mdss-dsi-h-sync-skew = <0>;
@@ -501,7 +501,7 @@
 		somc,mdss-dsi-disp-on-in-hs = <0>;
 		somc,mdss-dsi-wait-time-before-post-on-cmd = <0>;
 		qcom,mdss-dsi-display-timings {
-			1080p60 {
+			1080p120 {
 				qcom,mdss-dsi-timing-default;
 				qcom,mdss-dsi-panel-width = <1080>;
 				qcom,mdss-dsi-panel-height = <1920>;
@@ -513,7 +513,7 @@
 				qcom,mdss-dsi-v-front-porch = <227>;
 				qcom,mdss-pan-physical-width-dimension = <64>;
 				qcom,mdss-pan-physical-height-dimension = <114>;
-				qcom,mdss-dsi-panel-framerate = <60>;
+				qcom,mdss-dsi-panel-framerate = <120>;
 				qcom,mdss-dsi-h-sync-skew = <0>;
 				qcom,mdss-dsi-h-left-border = <0>;
 				qcom,mdss-dsi-h-right-border = <0>;
